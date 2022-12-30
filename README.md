@@ -12,4 +12,4 @@ pip install -r requirements.txt
 ```
 Change api_key to your own imbd-api key.
 
-<img src="https://imgur.com/NJL8BDn" alt="exemplo imagem">
+<img src="https://i.imgur.com/NJL8BDn.png" alt="api_key">
