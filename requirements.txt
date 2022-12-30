@@ -1,0 +1,4 @@
+libtorrent
+bs4
+requests
+multiprocessing
